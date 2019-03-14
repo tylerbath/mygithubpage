@@ -1,0 +1,8 @@
+title: Mygithubpage
+description: 
+google_analytics: UA-64425044-1
+show_downloads: true
+theme: jekyll-theme-modernist
+
+gems:
+  - jekyll-mentions
